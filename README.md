@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Yash-2422/LeeCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Yash-2422/LeeCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Yash-2422/LeeCode/tree/master/0326-power-of-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yash-2422/LeeCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Yash-2422/LeeCode/tree/master/0292-nim-game) |
+## Array
+|  |
+| ------- |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yash-2422/LeeCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 <!---LeetCode Topics End-->
